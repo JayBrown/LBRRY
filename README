@@ -1,4 +1,4 @@
-LBRRY for macOS is a background Platypus app (running a zsh script) that registers itself as a viewer for the lbry URI scheme, which is often used for links to the lbry.tv video streaming platform, and thereby intercepts paths using this URI, changes them into URLs, and opens the URLs in your default browser.
+LBRRY for macOS is a background Platypus app (running a zsh script) that registers itself as a viewer for the lbry URI scheme, which is often used for links to the decentralized LBRY video streaming platform, and thereby intercepts paths using this URI, changes them into lbry.tv URLs, and opens the URLs in your default browser.
 
 You can use this app if you haven't installed any application that will handle lbry URIs, e.g. if you don't want to install the official LBRY desktop app – https://github.com/lbryio/lbry-desktop –, which (as a cross-platform Electron app) might introduce security issues into your system.
 
